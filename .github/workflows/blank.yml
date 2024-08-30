@@ -1,6 +1,4 @@
-git init
+cd dani.github.io
 git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <URL_REPOSITORY>
-git push -u origin main
+git commit -m "Add website files"
+git push origin main
